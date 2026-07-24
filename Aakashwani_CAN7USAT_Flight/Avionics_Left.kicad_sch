@@ -1,0 +1,85 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "34a2f2d9-6049-497f-b7ad-fb4c930b155a")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 20 60 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3469a7c5-af7e-4ea5-84c5-b9a3e103cde8")
+	)
+	(hierarchical_label "PWM_SERVO"
+		(shape input)
+		(at 20 110 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "598b8474-8951-489a-a391-a20c201e0eb8")
+	)
+	(hierarchical_label "I2C_SDA"
+		(shape input)
+		(at 20 70 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60646908-5bf1-4f32-a417-71feb0ca54a7")
+	)
+	(hierarchical_label "VBAT"
+		(shape input)
+		(at 20 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d0845b9-e9f1-4839-9b02-9362734a75cf")
+	)
+	(hierarchical_label "PWM_ESC"
+		(shape input)
+		(at 20 100 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99925777-d369-465c-8571-d6caa0a54438")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 20 50 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a8f33dd1-595c-49ef-843b-9f40917f6ac0")
+	)
+	(hierarchical_label "I2C_SCL"
+		(shape input)
+		(at 20 80 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbeb6df4-123e-4362-8efb-63dc6032ec61")
+	)
+)

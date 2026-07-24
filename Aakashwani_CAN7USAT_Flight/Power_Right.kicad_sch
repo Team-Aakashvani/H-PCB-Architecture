@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "99d3c4b0-640e-42a6-a03c-6f05c8400de5")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "PWM_ESC"
+		(shape input)
+		(at 20 70 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e75768b-3cea-4822-a143-c81973b6168d")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 20 60 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "693453e6-62d3-497a-9058-ee50dfb8d04f")
+	)
+	(hierarchical_label "PWM_SERVO"
+		(shape input)
+		(at 20 80 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d63fbf58-c341-48fd-ab95-4304456ea96b")
+	)
+	(hierarchical_label "VBAT"
+		(shape input)
+		(at 20 50 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f114acc9-5059-41e6-84a1-253f0c379c7a")
+	)
+)

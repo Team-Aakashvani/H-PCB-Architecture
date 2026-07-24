@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6b6548e5-5c23-4bb3-be8b-905d688c6e2c")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "I2C_SCL"
+		(shape input)
+		(at 20 80 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2397430e-8c00-43fc-9e27-3ae66cad895b")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 20 50 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6386a4f9-1b53-46cf-87c3-a60c99762c3e")
+	)
+	(hierarchical_label "I2C_SDA"
+		(shape input)
+		(at 20 70 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "765390c1-3f94-4e2a-b48b-c7dcc81cf4bc")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 20 60 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cff36c18-e1fd-48af-b35d-711ce1956b46")
+	)
+)

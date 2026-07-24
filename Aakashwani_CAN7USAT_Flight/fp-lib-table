@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Aakashwani_Master") (type "KiCad") (uri "${KIPRJMOD}/../Aakashwani_Master_Library/Aakashwani_Master.pretty") (options "") (descr "Master Footprints"))
+)

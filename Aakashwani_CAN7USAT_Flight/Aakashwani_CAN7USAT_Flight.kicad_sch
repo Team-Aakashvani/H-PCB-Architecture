@@ -1,0 +1,545 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a9f3ae19-3705-40af-84d5-de6ede7a1a74")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 116.84 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa704ec2-e661-4447-9e31-9089d52d98f1")
+	)
+	(wire
+		(pts
+			(xy 108.44 88.9) (xy 108.44 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0be06b06-1fd7-47ab-862a-109dcecb28b3")
+	)
+	(wire
+		(pts
+			(xy 116.06 67.31) (xy 116.06 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e720d57-ee85-40dd-9a33-ffc94318b265")
+	)
+	(wire
+		(pts
+			(xy 108.44 64.77) (xy 197.34 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e556a3c-55f1-4424-9d5f-9bd3d59af5c3")
+	)
+	(wire
+		(pts
+			(xy 101.1007 96.52) (xy 132.08 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fa5be6a-65e7-42ea-939c-3cb5a800e601")
+	)
+	(wire
+		(pts
+			(xy 193.04 67.31) (xy 116.06 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "375f0632-390c-4696-a20e-08370f3fe416")
+	)
+	(wire
+		(pts
+			(xy 197.34 64.77) (xy 197.34 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "386a1e84-30bc-4a83-af7f-07e7f7bdff7f")
+	)
+	(wire
+		(pts
+			(xy 193.04 132.08) (xy 116.84 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44661ddd-9995-4147-8994-a6e1ba9e82b9")
+	)
+	(wire
+		(pts
+			(xy 202.08 96.52) (xy 199.88 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45c0e545-15be-4139-8782-618fa44aa32c")
+	)
+	(wire
+		(pts
+			(xy 199.88 96.52) (xy 199.88 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d856261-07f5-4437-abc4-956553d7eec7")
+	)
+	(wire
+		(pts
+			(xy 199.88 62.23) (xy 104.63 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "541b68e7-3ebc-4469-99ef-66d2574164ef")
+	)
+	(wire
+		(pts
+			(xy 101.1007 100.33) (xy 132.08 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71360b9c-9347-4963-a64e-3188a75a8088")
+	)
+	(wire
+		(pts
+			(xy 104.63 62.23) (xy 104.63 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c12965d-78bf-4e7d-84a4-1d43dbbe3456")
+	)
+	(wire
+		(pts
+			(xy 193.04 67.31) (xy 193.04 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e1ab9cf-2e5e-4587-b307-8404b1efea6a")
+	)
+	(wire
+		(pts
+			(xy 202.08 100.33) (xy 197.34 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a0706a-4e9b-4a28-980e-f1d017b1fbf2")
+	)
+	(wire
+		(pts
+			(xy 101.1007 92.71) (xy 116.06 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc20274-98cd-4f02-bf88-ea28fc47e3a0")
+	)
+	(wire
+		(pts
+			(xy 116.84 132.08) (xy 116.84 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c22378c7-241c-4d9c-9a2f-8e3c0c797d27")
+	)
+	(wire
+		(pts
+			(xy 116.84 107.95) (xy 132.08 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9661a01-3888-4c6c-86be-36a948167fd6")
+	)
+	(wire
+		(pts
+			(xy 193.04 107.95) (xy 202.08 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cef77bf5-f67e-47af-bb31-0553a3c9bb61")
+	)
+	(wire
+		(pts
+			(xy 193.04 107.95) (xy 193.04 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7307900-dfc5-4048-9df8-ef614cba828f")
+	)
+	(wire
+		(pts
+			(xy 193.04 104.14) (xy 202.08 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfd0b8c7-666f-42c5-8bab-a038e04742a7")
+	)
+	(wire
+		(pts
+			(xy 101.1007 85.09) (xy 104.63 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f296fece-f234-4852-8bb5-fa9c4a0e1e0b")
+	)
+	(wire
+		(pts
+			(xy 101.1007 107.95) (xy 116.84 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5610d9a-16af-434f-8638-9086d714d08c")
+	)
+	(wire
+		(pts
+			(xy 101.1007 88.9) (xy 108.44 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5c44dbd-d1f0-4ee8-87bb-baf604a52e7a")
+	)
+	(wire
+		(pts
+			(xy 101.1007 104.14) (xy 132.08 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc696dbf-7896-435f-87c7-51e328182f48")
+	)
+	(sheet
+		(at 61.1007 78.74)
+		(size 40 40)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "764e42a4-9251-4796-93ad-586e21c6f8ab")
+		(property "Sheetname" "Avionics_Left"
+			(at 61.1007 77.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Avionics_Left.kicad_sch"
+			(at 61.1007 119.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 101.1007 104.14 0)
+			(uuid "ad82eea3-1c21-4e76-95ac-958cd2c4cea1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" input
+			(at 101.1007 107.95 0)
+			(uuid "347c91dc-2b68-4c51-aa84-30a1b819be89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 101.1007 100.33 0)
+			(uuid "6c771c53-4022-4967-960f-c2cd3efd2505")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 101.1007 96.52 0)
+			(uuid "3af815f2-6734-4bd4-9045-d655e8cea58c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBAT" input
+			(at 101.1007 92.71 0)
+			(uuid "d205c762-a208-4d09-81af-31917521b1eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_ESC" input
+			(at 101.1007 88.9 0)
+			(uuid "791468ba-1a01-4387-bd54-a1ca83e904e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_SERVO" input
+			(at 101.1007 85.09 0)
+			(uuid "1c4ca426-6370-42fd-ad1a-01b220bf3793")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Aakashwani_CAN7USAT_Flight"
+				(path "/a9f3ae19-3705-40af-84d5-de6ede7a1a74"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 79.05)
+		(size 40 40)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "818df3de-ece6-4df2-bfac-b2dc7f594004")
+		(property "Sheetname" "Sensor_Bridge"
+			(at 132.08 78.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensor_Bridge.kicad_sch"
+			(at 132.08 119.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3" input
+			(at 132.08 104.14 180)
+			(uuid "bb016f6b-120a-407e-a137-5dfda2be1a25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 132.08 107.95 180)
+			(uuid "4020ee78-14f8-41ab-b517-54bac0849aa8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 132.08 100.33 180)
+			(uuid "f6fe0f04-0cba-4f99-8f59-14a1b8752604")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 132.08 96.52 180)
+			(uuid "6dda25bc-7618-4119-91cf-20419c6e294b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Aakashwani_CAN7USAT_Flight"
+				(path "/a9f3ae19-3705-40af-84d5-de6ede7a1a74"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 202.08 79.05)
+		(size 40 40)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e566a4e2-9159-4f61-9138-e848b5dfb740")
+		(property "Sheetname" "Power_Right"
+			(at 202.08 78.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Right.kicad_sch"
+			(at 202.08 119.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VBAT" input
+			(at 202.08 104.14 180)
+			(uuid "3e9d36c5-7351-4805-87d8-f006842bd5af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 202.08 107.95 180)
+			(uuid "a534709b-06eb-4e2f-8c8b-77e1ee26247b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_ESC" input
+			(at 202.08 100.33 180)
+			(uuid "27d350bb-236d-4248-bdff-6f2fbed1d8f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_SERVO" input
+			(at 202.08 96.52 180)
+			(uuid "0f170a68-134f-49c5-8cbb-8aaf9c93c397")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Aakashwani_CAN7USAT_Flight"
+				(path "/a9f3ae19-3705-40af-84d5-de6ede7a1a74"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
