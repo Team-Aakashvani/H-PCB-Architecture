@@ -1,0 +1,17 @@
+PROPRIETARY AND CONFIDENTIAL
+
+Copyright (c) 2026 Team Aakashvani. All Rights Reserved.
+
+1. OWNERSHIP
+All content in this repository, including but not limited to KiCad project files (.kicad_pro, .kicad_sch, .kicad_pcb), symbol libraries (.kicad_sym), footprint libraries (.pretty, .kicad_mod), hardware architecture designs, Microsoft Excel power budgets, Microsoft PowerPoint presentations, and all Python source code (specifically including "Visual_Footprint_Generator.py") are the sole intellectual property of Team Aakashvani.
+
+2. RESTRICTIONS
+You may NOT use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, designs, or documentation without explicit, prior written consent from the leadership of Team Aakashvani. 
+
+3. VISUAL FOOTPRINT GENERATOR
+The CAD tool named "Visual_Footprint_Generator.py" (including its auto-leveling, perspective correction, footprint plotting algorithms, and GUI implementation) was developed entirely in-house. It is strictly proprietary. Competing teams, universities, or external individuals are strictly prohibited from copying, utilizing, or reverse-engineering this software.
+
+4. ACADEMIC EVALUATION
+Members of the official competition Jury and designated Academic Evaluators are hereby granted a limited, non-transferable, and non-exclusive right to view, inspect, and evaluate the contents of this repository strictly for the purpose of grading and competition assessment. This grant does not include the right to distribute or utilize the IP for any other purpose.
+
+THE SOFTWARE AND HARDWARE DESIGNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
